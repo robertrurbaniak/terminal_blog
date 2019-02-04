@@ -1,7 +1,6 @@
 from models.post import Post
+from database import Database
 
-post = Post("Post1 title", 'Post1 content', 'Post1 author')
-post2 = Post("Post2 title", 'Post2 content', 'Post2 author')
+Database.initialize()
 
-print(post.content)
-print(post2.content)
+blog = Blog(author='')
