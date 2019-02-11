@@ -1,0 +1,4 @@
+Future Improvements
+- improve experience if user doesn't enter R or W in main menu
+- improve exeperience for selecting a blog (perhaps a title, or shorten id's)
+- date display
